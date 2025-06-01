@@ -1,0 +1,1452 @@
+[
+  {
+    "image_id": 391895,
+    "image_path": "val/images/COCO_val2014_000000391895.jpg",
+    "specialist_caption": "a man riding a horse down a road.",
+    "llava_caption": "A man in a red shirt is riding a motorcycle on a dirt road with a mountain in the background.",
+    "ground_truth": [
+      "a man with a red helmet on a small moped on a dirt road.",
+      "man riding a motor bike on a dirt road on the countryside.",
+      "a man riding on the back of a motorcycle.",
+      "a dirt path with a young person on a motor bike rests to the foreground of a verdant area with a bridge and a background of cloud-wreathed mountains.",
+      "a man in a red shirt and a red hat is on a motorcycle on a hill side."
+    ],
+    "specialist_scores": {
+      "bleu": 0.1856293387426249,
+      "meteor": 0.4056437389770724,
+      "overlap": 0.38461538461538464
+    },
+    "llava_scores": {
+      "bleu": 0.5019724248795793,
+      "meteor": 0.47198594674556216,
+      "overlap": 0.45
+    },
+    "differences": {
+      "bleu": 0.3163430861369544,
+      "meteor": 0.06634220776848976,
+      "overlap": 0.06538461538461537
+    },
+    "combined_diff": 0.14935663643001984
+  },
+  {
+    "image_id": 522418,
+    "image_path": "val/images/COCO_val2014_000000522418.jpg",
+    "specialist_caption": "a woman is holding a wii controller in a room.",
+    "llava_caption": "A woman in a red shirt and a hairnet is cutting a large cake with a knife.",
+    "ground_truth": [
+      "a woman wearing a net on her head cutting a cake.",
+      "a woman cutting a large white sheet cake.",
+      "a woman wearing a hair net cutting a large sheet cake.",
+      "there is a woman that is cutting a white cake",
+      "a woman marking a cake with the back of a chef's knife."
+    ],
+    "specialist_scores": {
+      "bleu": 0.052463410228614595,
+      "meteor": 0.3126050420168068,
+      "overlap": 0.21428571428571427
+    },
+    "llava_scores": {
+      "bleu": 0.11578713706192673,
+      "meteor": 0.4383680555555556,
+      "overlap": 0.375
+    },
+    "differences": {
+      "bleu": 0.06332372683331214,
+      "meteor": 0.1257630135387488,
+      "overlap": 0.16071428571428573
+    },
+    "combined_diff": 0.11660034202878222
+  },
+  {
+    "image_id": 184613,
+    "image_path": "val/images/COCO_val2014_000000184613.jpg",
+    "specialist_caption": "a group of people standing in a field with a horse.",
+    "llava_caption": "A young boy in a grey shirt is holding a colorful umbrella and feeding a brown cow with a blue rope.",
+    "ground_truth": [
+      "a child holding a flowered umbrella and petting a yak.",
+      "a young man holding an umbrella next to a herd of cattle.",
+      "a young boy barefoot holding an umbrella touching the horn of a cow",
+      "a young boy with an umbrella who is touching the horn of a cow.",
+      "a boy holding an umbrella while standing next to livestock."
+    ],
+    "specialist_scores": {
+      "bleu": 0.027705781179862037,
+      "meteor": 0.18018018018018017,
+      "overlap": 0.2
+    },
+    "llava_scores": {
+      "bleu": 0.07231092487418496,
+      "meteor": 0.39635688986338335,
+      "overlap": 0.3333333333333333
+    },
+    "differences": {
+      "bleu": 0.04460514369432292,
+      "meteor": 0.21617670968320318,
+      "overlap": 0.1333333333333333
+    },
+    "combined_diff": 0.1313717289036198
+  },
+  {
+    "image_id": 318219,
+    "image_path": "val/images/COCO_val2014_000000318219.jpg",
+    "specialist_caption": "a man is sitting on a couch with a laptop.",
+    "llava_caption": "A young boy wearing headphones is sitting at a computer, looking at the screen.",
+    "ground_truth": [
+      "a young boy standing in front of a computer keyboard.",
+      "a little boy wearing headphones and looking at a computer monitor",
+      "he is listening intently to the computer at school.",
+      "a young boy stares up at the computer monitor.",
+      "a young kid with head phones on using a computer"
+    ],
+    "specialist_scores": {
+      "bleu": 0.02950234363196405,
+      "meteor": 0.19801980198019806,
+      "overlap": 0.2
+    },
+    "llava_scores": {
+      "bleu": 0.16024240871459333,
+      "meteor": 0.6521739130434784,
+      "overlap": 0.4117647058823529
+    },
+    "differences": {
+      "bleu": 0.13074006508262928,
+      "meteor": 0.4541541110632803,
+      "overlap": 0.2117647058823529
+    },
+    "combined_diff": 0.2655529606760875
+  },
+  {
+    "image_id": 554625,
+    "image_path": "val/images/COCO_val2014_000000554625.jpg",
+    "specialist_caption": "a man is sitting on a couch with a laptop.",
+    "llava_caption": "A group of children sitting at desks with computer keyboards, wearing headphones and looking at computer monitors.",
+    "ground_truth": [
+      "a boy wearing headphones using one computer in a long row of computers",
+      "a little boy with earphones on listening to something.",
+      "a group of people sitting at desk using computers.",
+      "children sitting at computer stations on a long table.",
+      "a small child wearing headphones plays on the computer."
+    ],
+    "specialist_scores": {
+      "bleu": 0.052463410228614595,
+      "meteor": 0.19801980198019806,
+      "overlap": 0.26666666666666666
+    },
+    "llava_scores": {
+      "bleu": 0.10914270930124749,
+      "meteor": 0.5791284403669724,
+      "overlap": 0.2857142857142857
+    },
+    "differences": {
+      "bleu": 0.056679299072632895,
+      "meteor": 0.38110863838677433,
+      "overlap": 0.019047619047619035
+    },
+    "combined_diff": 0.15227851883567542
+  },
+  {
+    "image_id": 397133,
+    "image_path": "val/images/COCO_val2014_000000397133.jpg",
+    "specialist_caption": "a kitchen with a stove and a stove.",
+    "llava_caption": "A man in a white apron is standing in a kitchen with a large wooden table, surrounded by pots, pans, and various cooking utensils.",
+    "ground_truth": [
+      "a man is in a kitchen making pizzas.",
+      "man in apron standing on front of oven with pans and bakeware",
+      "a baker is working in the kitchen rolling dough.",
+      "a person standing by a stove in a kitchen.",
+      "a table with pies being made and a person standing near a wall with pots and pans hanging on the wall."
+    ],
+    "specialist_scores": {
+      "bleu": 0.09438595268231116,
+      "meteor": 0.30303030303030304,
+      "overlap": 0.4
+    },
+    "llava_scores": {
+      "bleu": 0.06007395231217198,
+      "meteor": 0.3669724770642202,
+      "overlap": 0.25925925925925924
+    },
+    "differences": {
+      "bleu": -0.03431200037013918,
+      "meteor": 0.06394217403391717,
+      "overlap": -0.14074074074074078
+    },
+    "combined_diff": -0.03703685569232093
+  },
+  {
+    "image_id": 574769,
+    "image_path": "val/images/COCO_val2014_000000574769.jpg",
+    "specialist_caption": "a man is standing in a kitchen with a stove.",
+    "llava_caption": "A woman is standing in a kitchen holding a cat, smiling, with a counter full of food and a refrigerator in the background.",
+    "ground_truth": [
+      "a woman in a room with a cat.",
+      "a girl smiles as she holds a cat and wears a brightly colored skirt.",
+      "a woman is holding a cat in her kitchen",
+      "a woman is working in a kitchen carrying a soft toy.",
+      "a woman is holding a cat in her kitchen."
+    ],
+    "specialist_scores": {
+      "bleu": 0.13193849171325928,
+      "meteor": 0.5555555555555555,
+      "overlap": 0.38461538461538464
+    },
+    "llava_scores": {
+      "bleu": 0.09154550538977707,
+      "meteor": 0.50340570455513,
+      "overlap": 0.38095238095238093
+    },
+    "differences": {
+      "bleu": -0.040392986323482205,
+      "meteor": -0.05214985100042546,
+      "overlap": -0.0036630036630037055
+    },
+    "combined_diff": -0.03206861366230379
+  },
+  {
+    "image_id": 60623,
+    "image_path": "val/images/COCO_val2014_000000060623.jpg",
+    "specialist_caption": "a man holding a buildings dog in a eats.",
+    "llava_caption": "A young girl is blowing out a candle on a cupcake at a restaurant table.",
+    "ground_truth": [
+      "a young girl inhales with the intent of blowing out a candle.",
+      "a young girl is preparing to blow out her candle.",
+      "a kid is to blow out the single candle in a bowl of birthday goodness.",
+      "girl blowing out the candle on an ice-cream",
+      "a little girl is getting ready to blow out a candle on a small dessert."
+    ],
+    "specialist_scores": {
+      "bleu": 0.050781487573685676,
+      "meteor": 0.20495129870129872,
+      "overlap": 0.15
+    },
+    "llava_scores": {
+      "bleu": 0.46892438882117243,
+      "meteor": 0.610733695652174,
+      "overlap": 0.4117647058823529
+    },
+    "differences": {
+      "bleu": 0.41814290124748676,
+      "meteor": 0.40578239695087526,
+      "overlap": 0.2617647058823529
+    },
+    "combined_diff": 0.36189666802690496
+  },
+  {
+    "image_id": 309022,
+    "image_path": "val/images/COCO_val2014_000000309022.jpg",
+    "specialist_caption": "a kitchen with a stove and a stove.",
+    "llava_caption": "This is a commercial kitchen with stainless steel appliances and counters.",
+    "ground_truth": [
+      "a commercial stainless kitchen with a pot of food cooking.",
+      "some food sits in a pot in a kitchen.",
+      "a kitchen has all stainless steel appliances and counters.",
+      "a kitchen with a sink and many cooking machines and a pot of food",
+      "food cooks in a pot on a stove in a kitchen."
+    ],
+    "specialist_scores": {
+      "bleu": 0.36088772259506874,
+      "meteor": 0.4362139917695474,
+      "overlap": 0.36363636363636365
+    },
+    "llava_scores": {
+      "bleu": 0.5156626918239822,
+      "meteor": 0.7636335784313727,
+      "overlap": 0.5714285714285714
+    },
+    "differences": {
+      "bleu": 0.15477496922891343,
+      "meteor": 0.3274195866618253,
+      "overlap": 0.20779220779220775
+    },
+    "combined_diff": 0.22999558789431548
+  },
+  {
+    "image_id": 5802,
+    "image_path": "val/images/COCO_val2014_000000005802.jpg",
+    "specialist_caption": "a man in a kitchen with a glass of wine.",
+    "llava_caption": "A man in a white shirt and black apron is standing in a kitchen, looking out a window, while another man in a white shirt and black apron is standing at a counter, preparing food.",
+    "ground_truth": [
+      "two men wearing aprons working in a commercial-style kitchen.",
+      "chefs preparing food in a professional metallic style kitchen.",
+      "two people standing around in a large kitchen.",
+      "a commercial kitchen with two men working to prepare several plates.",
+      "two men in white shirts in a large steel kitchen"
+    ],
+    "specialist_scores": {
+      "bleu": 0.059609942732681,
+      "meteor": 0.2652310924369748,
+      "overlap": 0.2857142857142857
+    },
+    "llava_scores": {
+      "bleu": 0.01737720878556081,
+      "meteor": 0.3305340223944875,
+      "overlap": 0.23076923076923078
+    },
+    "differences": {
+      "bleu": -0.04223273394712019,
+      "meteor": 0.06530292995751269,
+      "overlap": -0.054945054945054916
+    },
+    "combined_diff": -0.010624952978220805
+  },
+  {
+    "image_id": 222564,
+    "image_path": "val/images/COCO_val2014_000000222564.jpg",
+    "specialist_caption": "a man in a kitchen with a refrigerator.",
+    "llava_caption": "Two men in a kitchen, one cooking and the other assisting, with a stainless steel oven and a countertop.",
+    "ground_truth": [
+      "two chefs in a restaurant kitchen preparing food.",
+      "two cooks are cooking the food someone ordered at this restaurant",
+      "the chef is cooking with pans on the stove next to an oven.",
+      "two men that are standing in a kitchen.",
+      "two cooks are near the stove in a stainless steel kitchen."
+    ],
+    "specialist_scores": {
+      "bleu": 0.13485111859503685,
+      "meteor": 0.2222222222222222,
+      "overlap": 0.3333333333333333
+    },
+    "llava_scores": {
+      "bleu": 0.09092617426809149,
+      "meteor": 0.4491927825261159,
+      "overlap": 0.36363636363636365
+    },
+    "differences": {
+      "bleu": -0.04392494432694535,
+      "meteor": 0.22697056030389368,
+      "overlap": 0.03030303030303033
+    },
+    "combined_diff": 0.07111621542665955
+  },
+  {
+    "image_id": 118113,
+    "image_path": "val/images/COCO_val2014_000000118113.jpg",
+    "specialist_caption": "a man is sitting on a couch in a kitchen.",
+    "llava_caption": "A darkly lit room filled with various items, including a large wooden shelf, a table, and a fire extinguisher.",
+    "ground_truth": [
+      "this is a very dark picture of a room with a shelf",
+      "a cluttered room with a table and shelf on the wall.",
+      "a view of a messy room, with shelves on the wall.",
+      "a dark and cluttered storage area with wood walls.",
+      "a dim lit room consisting of many objects put together."
+    ],
+    "specialist_scores": {
+      "bleu": 0.02950234363196405,
+      "meteor": 0.16806722689075632,
+      "overlap": 0.17647058823529413
+    },
+    "llava_scores": {
+      "bleu": 0.03189743186285692,
+      "meteor": 0.30534351145038163,
+      "overlap": 0.3181818181818182
+    },
+    "differences": {
+      "bleu": 0.002395088230892871,
+      "meteor": 0.13727628455962532,
+      "overlap": 0.14171122994652405
+    },
+    "combined_diff": 0.09379420091234741
+  },
+  {
+    "image_id": 193271,
+    "image_path": "val/images/COCO_val2014_000000193271.jpg",
+    "specialist_caption": "a kitchen with a stove and a stove.",
+    "llava_caption": "This image shows a well-equipped kitchen with a variety of appliances and utensils.",
+    "ground_truth": [
+      "a kitchen filled with black appliances and lots of counter top space.",
+      "some brown cabinets a black oven a tea kettle and a microwave",
+      "a small kitchen with glass and wooden cabinets.",
+      "a modern style kitchen filled with may different items.",
+      "a kitchen with wooden cabinets and black appliances."
+    ],
+    "specialist_scores": {
+      "bleu": 0.1623339577375495,
+      "meteor": 0.41333333333333333,
+      "overlap": 0.5
+    },
+    "llava_scores": {
+      "bleu": 0.05080057943038196,
+      "meteor": 0.4488304093567252,
+      "overlap": 0.375
+    },
+    "differences": {
+      "bleu": -0.11153337830716753,
+      "meteor": 0.03549707602339186,
+      "overlap": -0.125
+    },
+    "combined_diff": -0.06701210076125856
+  },
+  {
+    "image_id": 224736,
+    "image_path": "val/images/COCO_val2014_000000224736.jpg",
+    "specialist_caption": "a kitchen with a stove and a sink.",
+    "llava_caption": "A dirty, cluttered kitchen with a broken toilet and a metal rack.",
+    "ground_truth": [
+      "a professional kitchen filled with sinks and appliances.",
+      "a kitchen area with toilet and various cleaning appliances.",
+      "a commercial dish washing station with a toilet in it.",
+      "a toilet and mop bucket in a kitchen.",
+      "a cluttered room with a sink, a toilet and in industrial mop bucket."
+    ],
+    "specialist_scores": {
+      "bleu": 0.09438595268231116,
+      "meteor": 0.3333333333333333,
+      "overlap": 0.45454545454545453
+    },
+    "llava_scores": {
+      "bleu": 0.05001210504513988,
+      "meteor": 0.4619272516364239,
+      "overlap": 0.3888888888888889
+    },
+    "differences": {
+      "bleu": -0.04437384763717128,
+      "meteor": 0.12859391830309058,
+      "overlap": -0.06565656565656564
+    },
+    "combined_diff": 0.006187835003117888
+  },
+  {
+    "image_id": 483108,
+    "image_path": "val/images/COCO_val2014_000000483108.jpg",
+    "specialist_caption": "a train is parked on the tracks near a train station.",
+    "llava_caption": "A man is riding a bicycle on a street next to a red and white train.",
+    "ground_truth": [
+      "a man on a bicycle riding next to a train",
+      "a person is riding a bicycle but there is a train in the background.",
+      "a red and white train and a man riding a bicycle",
+      "a guy that is riding his bike next to a train",
+      "a man riding a bike past a train traveling along tracks."
+    ],
+    "specialist_scores": {
+      "bleu": 0.05094110796339642,
+      "meteor": 0.35532407407407407,
+      "overlap": 0.29411764705882354
+    },
+    "llava_scores": {
+      "bleu": 0.47752054619607476,
+      "meteor": 0.7742990654205608,
+      "overlap": 0.5714285714285714
+    },
+    "differences": {
+      "bleu": 0.42657943823267835,
+      "meteor": 0.41897499134648675,
+      "overlap": 0.27731092436974786
+    },
+    "combined_diff": 0.3742884513163043
+  },
+  {
+    "image_id": 403013,
+    "image_path": "val/images/COCO_val2014_000000403013.jpg",
+    "specialist_caption": "a kitchen with a sink and a sink.",
+    "llava_caption": "This image shows a small, empty kitchen with white appliances and white cabinets.",
+    "ground_truth": [
+      "a narrow kitchen filled with appliances and cooking utensils.",
+      "a galley kitchen with cabinets and appliances on both sides",
+      "a hallway leading into a white kitchen with appliances.",
+      "doorway view of a kitchen with a sink, stove, refrigerator and pantry.",
+      "the pantry door of the small kitchen is closed."
+    ],
+    "specialist_scores": {
+      "bleu": 0.4344371253135792,
+      "meteor": 0.39753401360544216,
+      "overlap": 0.46153846153846156
+    },
+    "llava_scores": {
+      "bleu": 0.0497074547280084,
+      "meteor": 0.40608465608465605,
+      "overlap": 0.35294117647058826
+    },
+    "differences": {
+      "bleu": -0.3847296705855708,
+      "meteor": 0.008550642479213888,
+      "overlap": -0.1085972850678733
+    },
+    "combined_diff": -0.16159210439141006
+  },
+  {
+    "image_id": 374628,
+    "image_path": "val/images/COCO_val2014_000000374628.jpg",
+    "specialist_caption": "a living room with a couch and a table.",
+    "llava_caption": "This image depicts a spacious, well-lit kitchen and dining area with a warm, inviting atmosphere.",
+    "ground_truth": [
+      "a kitchen with wood floors and lots of furniture.",
+      "a beautiful, open kitchen and dining room area features an island in the center and wood cabinets and large windows.",
+      "a kitchen made of mostly wood with a small desk with a laptop.",
+      "a very spacious room with a kitchen and dining area.",
+      "a full view of an open kitchen and dining area."
+    ],
+    "specialist_scores": {
+      "bleu": 0.12909944487358058,
+      "meteor": 0.39118246687054015,
+      "overlap": 0.38461538461538464
+    },
+    "llava_scores": {
+      "bleu": 0.1816725573641283,
+      "meteor": 0.7032816292075552,
+      "overlap": 0.4444444444444444
+    },
+    "differences": {
+      "bleu": 0.05257311249054772,
+      "meteor": 0.31209916233701507,
+      "overlap": 0.05982905982905978
+    },
+    "combined_diff": 0.14150044488554087
+  },
+  {
+    "image_id": 328757,
+    "image_path": "val/images/COCO_val2014_000000328757.jpg",
+    "specialist_caption": "a man is holding a buildings dog in a photo.",
+    "llava_caption": "A woman in a blue tank top is eating broccoli from a white bowl with a fork in her hand.",
+    "ground_truth": [
+      "a woman eating vegetables in front of a stove.",
+      "a woman forks vegetables out of a bowl into her mouth.",
+      "woman eating an assortment of mixed vegetables in a bowl.",
+      "a young woman standing in a kitchen eats a plate of vegetables.",
+      "a woman eating fresh vegetables from a bowl."
+    ],
+    "specialist_scores": {
+      "bleu": 0.05012578715739066,
+      "meteor": 0.23232323232323232,
+      "overlap": 0.2
+    },
+    "llava_scores": {
+      "bleu": 0.038015566318814725,
+      "meteor": 0.3431372549019608,
+      "overlap": 0.3157894736842105
+    },
+    "differences": {
+      "bleu": -0.012110220838575936,
+      "meteor": 0.11081402257872847,
+      "overlap": 0.1157894736842105
+    },
+    "combined_diff": 0.07149775847478768
+  },
+  {
+    "image_id": 384213,
+    "image_path": "val/images/COCO_val2014_000000384213.jpg",
+    "specialist_caption": "a kitchen with a stove and a sink.",
+    "llava_caption": "A kitchen with a window, a sink, a counter, and a stove.",
+    "ground_truth": [
+      "a kitchen is shown with a variety of items on the counters.",
+      "a kitchen has the windows open and plaid curtains.",
+      "a kitchen with two windows and two metal sinks.",
+      "an older kitchen with cluttered counter tops but empty sink.",
+      "glasses and bottles are placed near a kitchen sink."
+    ],
+    "specialist_scores": {
+      "bleu": 0.15609504551459075,
+      "meteor": 0.5162738496071829,
+      "overlap": 0.45454545454545453
+    },
+    "llava_scores": {
+      "bleu": 0.08609583710384033,
+      "meteor": 0.45244512899499423,
+      "overlap": 0.35714285714285715
+    },
+    "differences": {
+      "bleu": -0.06999920841075041,
+      "meteor": -0.0638287206121887,
+      "overlap": -0.09740259740259738
+    },
+    "combined_diff": -0.0770768421418455
+  },
+  {
+    "image_id": 293802,
+    "image_path": "val/images/COCO_val2014_000000293802.jpg",
+    "specialist_caption": "a man riding a skateboard down a ramp.",
+    "llava_caption": "A young man is performing a skateboard trick in the air, with his arms outstretched, on a brick sidewalk.",
+    "ground_truth": [
+      "a boy performing a kickflip on his skateboard on a city street.",
+      "a man is doing a trick on a skateboard",
+      "a guy jumps in the air with his skateboard beneath him.",
+      "man in all black doing a trick on his skateboard.",
+      "a skateboarder flipping his board on a street."
+    ],
+    "specialist_scores": {
+      "bleu": 0.07936880926086218,
+      "meteor": 0.41333333333333333,
+      "overlap": 0.2857142857142857
+    },
+    "llava_scores": {
+      "bleu": 0.08794090522118718,
+      "meteor": 0.7988733069639219,
+      "overlap": 0.36363636363636365
+    },
+    "differences": {
+      "bleu": 0.008572095960325002,
+      "meteor": 0.38553997363058856,
+      "overlap": 0.07792207792207795
+    },
+    "combined_diff": 0.15734471583766382
+  },
+  {
+    "image_id": 86408,
+    "image_path": "val/images/COCO_val2014_000000086408.jpg",
+    "specialist_caption": "a kitchen with a stove and a stove.",
+    "llava_caption": "A kitchen with black appliances, including a refrigerator and stove, and wooden cabinets.",
+    "ground_truth": [
+      "a kitchen with a stove, microwave and refrigerator.",
+      "a refrigerator, oven and microwave sitting in a kitchen.",
+      "the kitchenette uses  small space to great efficiency.",
+      "an image of a kitchen setting with black appliances",
+      "a kitchen with cabinets, a stove, microwave and refrigerator."
+    ],
+    "specialist_scores": {
+      "bleu": 0.4854917717073234,
+      "meteor": 0.5782312925170067,
+      "overlap": 0.6666666666666666
+    },
+    "llava_scores": {
+      "bleu": 0.1374708101760565,
+      "meteor": 0.7232704402515724,
+      "overlap": 0.6428571428571429
+    },
+    "differences": {
+      "bleu": -0.3480209615312669,
+      "meteor": 0.14503914773456572,
+      "overlap": -0.023809523809523725
+    },
+    "combined_diff": -0.0755971125354083
+  },
+  {
+    "image_id": 37777,
+    "image_path": "val/images/COCO_val2014_000000037777.jpg",
+    "specialist_caption": "a kitchen with a sink and a sink.",
+    "llava_caption": "This is a photo of a kitchen with a white stove, wooden cabinets, a white refrigerator, a wooden table with fruit on it, and a white door.",
+    "ground_truth": [
+      "the dining table near the kitchen has a bowl of fruit on it.",
+      "a small kitchen has various appliances and a table.",
+      "the kitchen is clean and ready for us to see.",
+      "a kitchen and dining area decorated in white.",
+      "a kitchen that has a bowl of fruit on the table."
+    ],
+    "specialist_scores": {
+      "bleu": 0.07583235673413397,
+      "meteor": 0.3757575757575758,
+      "overlap": 0.36363636363636365
+    },
+    "llava_scores": {
+      "bleu": 0.04856267242628736,
+      "meteor": 0.39952531645569617,
+      "overlap": 0.32
+    },
+    "differences": {
+      "bleu": -0.027269684307846605,
+      "meteor": 0.023767740698120376,
+      "overlap": -0.04363636363636364
+    },
+    "combined_diff": -0.015712769082029957
+  },
+  {
+    "image_id": 372938,
+    "image_path": "val/images/COCO_val2014_000000372938.jpg",
+    "specialist_caption": "a group of people riding motorcycles on a street.",
+    "llava_caption": "A group of people are riding on the back of a truck, which is loaded with various items.",
+    "ground_truth": [
+      "a group of people riding on the back of a loaded red pickup truck.",
+      "a truck with a number of people and things in the back",
+      "men are crowded on the back of a small overloaded pickup truck.",
+      "an old pick up truck over loaded with people and cargo.",
+      "a truck carries a large amount of items and a few people."
+    ],
+    "specialist_scores": {
+      "bleu": 0.36170855168907595,
+      "meteor": 0.4353448275862069,
+      "overlap": 0.4666666666666667
+    },
+    "llava_scores": {
+      "bleu": 0.4262913794222232,
+      "meteor": 0.8148501622447031,
+      "overlap": 0.55
+    },
+    "differences": {
+      "bleu": 0.06458282773314727,
+      "meteor": 0.3795053346584962,
+      "overlap": 0.08333333333333337
+    },
+    "combined_diff": 0.17580716524165893
+  },
+  {
+    "image_id": 386164,
+    "image_path": "val/images/COCO_val2014_000000386164.jpg",
+    "specialist_caption": "a table with a half and a half on it.",
+    "llava_caption": "A collection of wooden utensils and spoons on a wooden table.",
+    "ground_truth": [
+      "a wooden ball on top of a wooden stick.",
+      "the table is full of wooden spoons and utensils.",
+      "a wood table holding an assortment of wood cooking utensils.",
+      "a selection of wooden kitchen tools on a counter.",
+      "wooden spoons are lined up on a table"
+    ],
+    "specialist_scores": {
+      "bleu": 0.052463410228614595,
+      "meteor": 0.19801980198019806,
+      "overlap": 0.23076923076923078
+    },
+    "llava_scores": {
+      "bleu": 0.07259795291154773,
+      "meteor": 0.47018807523009204,
+      "overlap": 0.5384615384615384
+    },
+    "differences": {
+      "bleu": 0.02013454268293314,
+      "meteor": 0.272168273249894,
+      "overlap": 0.30769230769230765
+    },
+    "combined_diff": 0.19999837454171163
+  },
+  {
+    "image_id": 223648,
+    "image_path": "val/images/COCO_val2014_000000223648.jpg",
+    "specialist_caption": "a man sitting on a couch with a laptop.",
+    "llava_caption": "A long wooden table with many wooden spoons and bowls on it, surrounded by four chairs, in a room with a hardwood floor and a bookshelf in the background.",
+    "ground_truth": [
+      "multiple wooden spoons are shown on a table top.",
+      "a table surrounded by chairs and filled with cooking utensils.",
+      "wooden spoons laid out across a kitchen table.",
+      "wooden spoons and forks are all over a table.",
+      "a table and chairs with wooden kitchen tools on top."
+    ],
+    "specialist_scores": {
+      "bleu": 0.05307712171072445,
+      "meteor": 0.1834862385321101,
+      "overlap": 0.26666666666666666
+    },
+    "llava_scores": {
+      "bleu": 0.04422020522273555,
+      "meteor": 0.4061307251908397,
+      "overlap": 0.2962962962962963
+    },
+    "differences": {
+      "bleu": -0.008856916487988899,
+      "meteor": 0.2226444866587296,
+      "overlap": 0.029629629629629617
+    },
+    "combined_diff": 0.08113906660012345
+  },
+  {
+    "image_id": 204805,
+    "image_path": "val/images/COCO_val2014_000000204805.jpg",
+    "specialist_caption": "a large truck parked on a street next to a building.",
+    "llava_caption": "A group of men in old-fashioned clothing are standing on a boat with a large wheel on the front.",
+    "ground_truth": [
+      "a large boat filled with mean on wheels.",
+      "a bunch of people aboard a boat with wheels.",
+      "a boat is being rolled on a trailer",
+      "a large boat full of men is sitting on a cart",
+      "a boat full of people is on a trailer with wheels."
+    ],
+    "specialist_scores": {
+      "bleu": 0.053863663688318665,
+      "meteor": 0.21505376344086022,
+      "overlap": 0.26666666666666666
+    },
+    "llava_scores": {
+      "bleu": 0.07887272990342094,
+      "meteor": 0.5555555555555556,
+      "overlap": 0.3
+    },
+    "differences": {
+      "bleu": 0.025009066215102273,
+      "meteor": 0.34050179211469533,
+      "overlap": 0.033333333333333326
+    },
+    "combined_diff": 0.13294806388771033
+  },
+  {
+    "image_id": 113588,
+    "image_path": "val/images/COCO_val2014_000000113588.jpg",
+    "specialist_caption": "a laptop computer sitting on top of a desk.",
+    "llava_caption": "A group of people working on computers in an office setting.",
+    "ground_truth": [
+      "several young students working at a desk with multiple computers",
+      "a young man at his workstation examines the monitor of a lap top, with one hand on the keyboard and the other on the mouse.",
+      "a man is working on a laptop next to other computers.",
+      "people in a large room, use multiple computers.",
+      "a young professional is working at his laptop while his coworker is reading material."
+    ],
+    "specialist_scores": {
+      "bleu": 0.08307018474412793,
+      "meteor": 0.25555555555555554,
+      "overlap": 0.25
+    },
+    "llava_scores": {
+      "bleu": 0.05094110796339642,
+      "meteor": 0.31000000000000005,
+      "overlap": 0.29411764705882354
+    },
+    "differences": {
+      "bleu": -0.032129076780731514,
+      "meteor": 0.05444444444444452,
+      "overlap": 0.04411764705882354
+    },
+    "combined_diff": 0.022144338240845513
+  },
+  {
+    "image_id": 384553,
+    "image_path": "val/images/COCO_val2014_000000384553.jpg",
+    "specialist_caption": "a man is holding a frisbee in the air.",
+    "llava_caption": "A man in a pink shirt sits on an elephant in a river, surrounded by lush greenery.",
+    "ground_truth": [
+      "a man riding an elephant into some water of a creek.",
+      "man riding an elephant into water surrounded by forest",
+      "a man riding an elephant in a river.",
+      "a man in a brown shirt rides an elephant into the water.",
+      "a man rides an elephant into a river."
+    ],
+    "specialist_scores": {
+      "bleu": 0.05873949094699214,
+      "meteor": 0.40879120879120884,
+      "overlap": 0.3125
+    },
+    "llava_scores": {
+      "bleu": 0.33380800216772966,
+      "meteor": 0.8228395061728395,
+      "overlap": 0.4117647058823529
+    },
+    "differences": {
+      "bleu": 0.2750685112207375,
+      "meteor": 0.4140482973816307,
+      "overlap": 0.09926470588235292
+    },
+    "combined_diff": 0.2627938381615737
+  },
+  {
+    "image_id": 337264,
+    "image_path": "val/images/COCO_val2014_000000337264.jpg",
+    "specialist_caption": "a man in a suit and a day in a room.",
+    "llava_caption": "A woman is standing in a kitchen, preparing food, while another woman is standing at the counter, looking at her.",
+    "ground_truth": [
+      "a couple of women  are in a kitchen",
+      "two people standing in the kitchen of a home.",
+      "a group of people who are around a kitchen counter.",
+      "a group of people prepare dinner in the kitchen.",
+      "two women in a kitchen bottles and lights"
+    ],
+    "specialist_scores": {
+      "bleu": 0.045293761707938834,
+      "meteor": 0.30423280423280424,
+      "overlap": 0.23076923076923078
+    },
+    "llava_scores": {
+      "bleu": 0.05538696232597745,
+      "meteor": 0.390625,
+      "overlap": 0.2857142857142857
+    },
+    "differences": {
+      "bleu": 0.010093200618038617,
+      "meteor": 0.08639219576719576,
+      "overlap": 0.054945054945054916
+    },
+    "combined_diff": 0.05047681711009643
+  },
+  {
+    "image_id": 368402,
+    "image_path": "val/images/COCO_val2014_000000368402.jpg",
+    "specialist_caption": "a kitchen with a stove and a sink.",
+    "llava_caption": "A woman is standing in a kitchen, holding a black pan, and smiling.",
+    "ground_truth": [
+      "the woman in the kitchen is holding a huge pan.",
+      "a chef carrying a large pan inside of a kitchen.",
+      "a woman is holding a large pan in a kitchen.",
+      "a woman cooking in a kitchen with granite counters.",
+      "a woman cooking in her kitchen with a black pan."
+    ],
+    "specialist_scores": {
+      "bleu": 0.16621692209732003,
+      "meteor": 0.3757575757575758,
+      "overlap": 0.3333333333333333
+    },
+    "llava_scores": {
+      "bleu": 0.1516464812489726,
+      "meteor": 0.6469565217391304,
+      "overlap": 0.5714285714285714
+    },
+    "differences": {
+      "bleu": -0.014570440848347438,
+      "meteor": 0.27119894598155464,
+      "overlap": 0.23809523809523808
+    },
+    "combined_diff": 0.16490791440948177
+  },
+  {
+    "image_id": 12448,
+    "image_path": "val/images/COCO_val2014_000000012448.jpg",
+    "specialist_caption": "a teddy bear sitting on a bed with a teddy bear.",
+    "llava_caption": "A baby is lying down with a teddy bear next to him.",
+    "ground_truth": [
+      "a baby is laying down with a teddy bear.",
+      "a baby laying in a crib with a stuffed teddy bear.",
+      "a baby wearing gloves, lying next to a teddy bear",
+      "a baby stares to the left while taking a picture with a teddy bear lays beside it .",
+      "a baby lies on blue and green bedding next to a teddy bear."
+    ],
+    "specialist_scores": {
+      "bleu": 0.35655062085592504,
+      "meteor": 0.5773420479302832,
+      "overlap": 0.4166666666666667
+    },
+    "llava_scores": {
+      "bleu": 0.4448493879587354,
+      "meteor": 0.8576051779935275,
+      "overlap": 0.6153846153846154
+    },
+    "differences": {
+      "bleu": 0.08829876710281037,
+      "meteor": 0.2802631300632443,
+      "overlap": 0.19871794871794873
+    },
+    "combined_diff": 0.18909328196133446
+  },
+  {
+    "image_id": 252219,
+    "image_path": "val/images/COCO_val2014_000000252219.jpg",
+    "specialist_caption": "a group of people standing on a bench in a field.",
+    "llava_caption": "A woman in a green tank top walks past a man in a white shirt and a man in a black hat, who are standing next to a blue building with a white sign.",
+    "ground_truth": [
+      "a person with a shopping cart on a city street",
+      "city dwellers walk by as a homeless man begs for cash.",
+      "people walking past a homeless man begging on a city street",
+      "a homeless man holding a cup and standing next to a shopping cart on a street",
+      "people are walking on the street by a homeless person."
+    ],
+    "specialist_scores": {
+      "bleu": 0.04926862021119254,
+      "meteor": 0.19607843137254904,
+      "overlap": 0.23529411764705882
+    },
+    "llava_scores": {
+      "bleu": 0.09792531733010931,
+      "meteor": 0.42592592592592593,
+      "overlap": 0.1875
+    },
+    "differences": {
+      "bleu": 0.04865669711891677,
+      "meteor": 0.22984749455337689,
+      "overlap": -0.04779411764705882
+    },
+    "combined_diff": 0.07690335800841162
+  },
+  {
+    "image_id": 79841,
+    "image_path": "val/images/COCO_val2014_000000079841.jpg",
+    "specialist_caption": "a man is riding a skateboard down a street.",
+    "llava_caption": "The image is a split-screen photograph showing two different scenes: a man riding a bicycle on a city street and a man walking on a sidewalk in front of a building.",
+    "ground_truth": [
+      "two bikers, one in front of a building, the other in the city.",
+      "two shots of men riding bicycles down city streets.",
+      "a man riding a bike in front of a tall building.",
+      "there are two different people riding bikes down the street.",
+      "two photos of a person riding a bicycle on the side of the road."
+    ],
+    "specialist_scores": {
+      "bleu": 0.08307018474412793,
+      "meteor": 0.43314500941619577,
+      "overlap": 0.2857142857142857
+    },
+    "llava_scores": {
+      "bleu": 0.27021732648475527,
+      "meteor": 0.6648936170212766,
+      "overlap": 0.3103448275862069
+    },
+    "differences": {
+      "bleu": 0.18714714174062735,
+      "meteor": 0.23174860760508081,
+      "overlap": 0.024630541871921208
+    },
+    "combined_diff": 0.14784209707254312
+  },
+  {
+    "image_id": 87038,
+    "image_path": "val/images/COCO_val2014_000000087038.jpg",
+    "specialist_caption": "a man riding a bike down a street.",
+    "llava_caption": "A skateboarder performing a trick in a graffiti-covered skate park.",
+    "ground_truth": [
+      "a person on a skateboard and bike at a skate park.",
+      "a man on a skateboard performs a trick at the skate park",
+      "a skateboarder jumps into the air as he performs a skateboard trick.",
+      "athletes performing tricks on a bmx bicycle and a skateboard.",
+      "a man falls off his skateboard in a skate park."
+    ],
+    "specialist_scores": {
+      "bleu": 0.05344197272146059,
+      "meteor": 0.26976495726495725,
+      "overlap": 0.21428571428571427
+    },
+    "llava_scores": {
+      "bleu": 0.15851165692617153,
+      "meteor": 0.5769944341372912,
+      "overlap": 0.35714285714285715
+    },
+    "differences": {
+      "bleu": 0.10506968420471094,
+      "meteor": 0.307229476872334,
+      "overlap": 0.14285714285714288
+    },
+    "combined_diff": 0.18505210131139593
+  },
+  {
+    "image_id": 174482,
+    "image_path": "val/images/COCO_val2014_000000174482.jpg",
+    "specialist_caption": "a man riding a bike on a street.",
+    "llava_caption": "A blue bicycle parked on a sidewalk next to a street with cars and a truck.",
+    "ground_truth": [
+      "a blue bike parked on a side walk",
+      "a bicycle is chained to a fixture on a city street",
+      "a blue bicycle sits on a sidewalk near a street.",
+      "a bicycle is locked up to a post",
+      "a bike sits parked next to a street"
+    ],
+    "specialist_scores": {
+      "bleu": 0.1744391898986843,
+      "meteor": 0.5506172839506173,
+      "overlap": 0.3333333333333333
+    },
+    "llava_scores": {
+      "bleu": 0.30277029197532096,
+      "meteor": 0.5034057045551299,
+      "overlap": 0.4375
+    },
+    "differences": {
+      "bleu": 0.12833110207663667,
+      "meteor": -0.04721157939548737,
+      "overlap": 0.10416666666666669
+    },
+    "combined_diff": 0.06176206311593866
+  },
+  {
+    "image_id": 515289,
+    "image_path": "val/images/COCO_val2014_000000515289.jpg",
+    "specialist_caption": "a man riding a motorcycle down a street.",
+    "llava_caption": "A group of people riding bicycles on a path, with a pigeon walking in front of them.",
+    "ground_truth": [
+      "people riding bicycles down the road approaching a bird.",
+      "three bicycle riders some trees and a pigeon",
+      "a geoup of people on bicycles coming down a street.",
+      "several smiling bicycle riders approaching a colorful pigeon.",
+      "a pigeon greets three bicyclists on a park path"
+    ],
+    "specialist_scores": {
+      "bleu": 0.3303164318013807,
+      "meteor": 0.4481481481481482,
+      "overlap": 0.3076923076923077
+    },
+    "llava_scores": {
+      "bleu": 0.08562365224473288,
+      "meteor": 0.40917431192660547,
+      "overlap": 0.3
+    },
+    "differences": {
+      "bleu": -0.2446927795566478,
+      "meteor": -0.03897383622154271,
+      "overlap": -0.0076923076923077205
+    },
+    "combined_diff": -0.09711964115683275
+  },
+  {
+    "image_id": 562150,
+    "image_path": "val/images/COCO_val2014_000000562150.jpg",
+    "specialist_caption": "a woman is holding a dog in a park.",
+    "llava_caption": "A young girl is holding a small kitten in her arms.",
+    "ground_truth": [
+      "a little girl holding a kitten next to a blue fence.",
+      "girl in a tank top holding a kitten in her back yard",
+      "a young girl is holding a small cat.",
+      "girl with a yellow shirt holding a small cat",
+      "a girl smiles as she holds a kitty cat."
+    ],
+    "specialist_scores": {
+      "bleu": 0.14287202148494,
+      "meteor": 0.40879120879120884,
+      "overlap": 0.3333333333333333
+    },
+    "llava_scores": {
+      "bleu": 0.6493358309501979,
+      "meteor": 0.853494623655914,
+      "overlap": 0.5833333333333334
+    },
+    "differences": {
+      "bleu": 0.5064638094652578,
+      "meteor": 0.44470341486470516,
+      "overlap": 0.25000000000000006
+    },
+    "combined_diff": 0.4003890747766543
+  },
+  {
+    "image_id": 542145,
+    "image_path": "val/images/COCO_val2014_000000542145.jpg",
+    "specialist_caption": "a bathroom with a sink and a sink.",
+    "llava_caption": "A small bathroom with a black cabinet, white toilet, and a sink.",
+    "ground_truth": [
+      "a toilet and a sink in small bathroom.",
+      "a bathroom with just a toliet and a sink in it",
+      "a small section of a bathroom with dim lighting.",
+      "a bathroom with a toilet, sink, cabinet and mirror",
+      "the bathroom has been cleaned and is ready to use."
+    ],
+    "specialist_scores": {
+      "bleu": 0.4463236137853328,
+      "meteor": 0.6226379440665155,
+      "overlap": 0.5555555555555556
+    },
+    "llava_scores": {
+      "bleu": 0.1535259783865636,
+      "meteor": 0.7316080729166666,
+      "overlap": 0.6153846153846154
+    },
+    "differences": {
+      "bleu": -0.29279763539876924,
+      "meteor": 0.10897012885015112,
+      "overlap": 0.05982905982905984
+    },
+    "combined_diff": -0.0413328155731861
+  },
+  {
+    "image_id": 412151,
+    "image_path": "val/images/COCO_val2014_000000412151.jpg",
+    "specialist_caption": "a man is sitting on a motorcycle with a bicycle.",
+    "llava_caption": "A man in a blue shirt is showing a bicycle to another man in a bike shop.",
+    "ground_truth": [
+      "a bicycle store shows two males leaning toward a bike.",
+      "a man adjust a bicycle in a bike shop with a child.",
+      "the bike shop employee is helping a customer.",
+      "a man and a boy are talking about a bicycle in a store.",
+      "two people in a shop looking at a bike."
+    ],
+    "specialist_scores": {
+      "bleu": 0.07419446627365012,
+      "meteor": 0.3746811224489796,
+      "overlap": 0.35714285714285715
+    },
+    "llava_scores": {
+      "bleu": 0.1967274688523915,
+      "meteor": 0.5324074074074076,
+      "overlap": 0.4375
+    },
+    "differences": {
+      "bleu": 0.12253300257874139,
+      "meteor": 0.15772628495842794,
+      "overlap": 0.08035714285714285
+    },
+    "combined_diff": 0.12020547679810406
+  },
+  {
+    "image_id": 403385,
+    "image_path": "val/images/COCO_val2014_000000403385.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A bathroom in need of repair, with a toilet, sink, and shower.",
+    "ground_truth": [
+      "a bathroom that has a broken wall in the shower.",
+      "a bathroom looks clean but is missing tile at the shower stall.",
+      "a view of a bathroom that needs to be fixed up.",
+      "a shower toilet and sink in a basement bathroom",
+      "a very big whit rest room with a shabby looking shower."
+    ],
+    "specialist_scores": {
+      "bleu": 0.09438595268231116,
+      "meteor": 0.4737654320987654,
+      "overlap": 0.5
+    },
+    "llava_scores": {
+      "bleu": 0.05242734048558421,
+      "meteor": 0.4444444444444444,
+      "overlap": 0.5
+    },
+    "differences": {
+      "bleu": -0.04195861219672695,
+      "meteor": -0.029320987654321007,
+      "overlap": 0.0
+    },
+    "combined_diff": -0.023759866617015984
+  },
+  {
+    "image_id": 579003,
+    "image_path": "val/images/COCO_val2014_000000579003.jpg",
+    "specialist_caption": "a cat sitting on a bed in a room.",
+    "llava_caption": "A bathroom with a red tiled shower, a white sink, and a mirror.",
+    "ground_truth": [
+      "a shower stall with interesting tile is the focal point.",
+      "a full perspective of a washroom with a sink.",
+      "a white bathroom sink sitting under a mirror.",
+      "i picture of a bathroom with a stand up shower stall and a person's reflection in the mirror.",
+      "a small shower behind a small bathroom sink."
+    ],
+    "specialist_scores": {
+      "bleu": 0.03303164318013808,
+      "meteor": 0.21978021978021975,
+      "overlap": 0.23076923076923078
+    },
+    "llava_scores": {
+      "bleu": 0.2100190632561924,
+      "meteor": 0.6543235851041447,
+      "overlap": 0.42857142857142855
+    },
+    "differences": {
+      "bleu": 0.17698742007605434,
+      "meteor": 0.4345433653239249,
+      "overlap": 0.19780219780219777
+    },
+    "combined_diff": 0.2697776610673923
+  },
+  {
+    "image_id": 540186,
+    "image_path": "val/images/COCO_val2014_000000540186.jpg",
+    "specialist_caption": "a bathroom with a sink and a sink.",
+    "llava_caption": "A large, well-lit bathroom with a white vanity, blue towels, and a blue rug.",
+    "ground_truth": [
+      "a view of a very large bathroom with mirrored walls.",
+      "a corner bathroom with two sinks and a bathtub",
+      "a bathroom with a sink, shower and bathtub.",
+      "a large bathroom with cabinets, mirrors and a tub.",
+      "this bathroom has mirrors on the doors, cabinets, and a bathtub in the corner."
+    ],
+    "specialist_scores": {
+      "bleu": 0.5133450480401704,
+      "meteor": 0.5782312925170067,
+      "overlap": 0.6666666666666666
+    },
+    "llava_scores": {
+      "bleu": 0.10521495173810227,
+      "meteor": 0.5395299145299145,
+      "overlap": 0.4375
+    },
+    "differences": {
+      "bleu": -0.4081300963020682,
+      "meteor": -0.03870137798709217,
+      "overlap": -0.22916666666666663
+    },
+    "combined_diff": -0.22533271365194232
+  },
+  {
+    "image_id": 242611,
+    "image_path": "val/images/COCO_val2014_000000242611.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "This image depicts a well-lit, modern bathroom with a white color scheme, featuring a large bathtub, a double sink vanity, and a walk-in shower.",
+    "ground_truth": [
+      "a long beige bathroom with a door to a bedroom and another to the hallway",
+      "a view of a bathroom with double sinks and carpeted floor.",
+      "white vanity that opens up to a bathroom with shower",
+      "a hallway with diamond patterned walls leading to a bathroom and a bedroom",
+      "a bathroom with a large sink and mirror opens onto a room with the toilet and bathtub."
+    ],
+    "specialist_scores": {
+      "bleu": 0.3716723368203945,
+      "meteor": 0.40990755276469565,
+      "overlap": 0.5
+    },
+    "llava_scores": {
+      "bleu": 0.05598526283106638,
+      "meteor": 0.46076642335766427,
+      "overlap": 0.2857142857142857
+    },
+    "differences": {
+      "bleu": -0.31568707398932816,
+      "meteor": 0.05085887059296862,
+      "overlap": -0.2142857142857143
+    },
+    "combined_diff": -0.15970463922735795
+  },
+  {
+    "image_id": 51191,
+    "image_path": "val/images/COCO_val2014_000000051191.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "This is a picture of a bathroom with a white color scheme.",
+    "ground_truth": [
+      "the view of a large bathroom with a walk in closet.",
+      "a bathroom with a walk-in closet and a jacuzzi tub.",
+      "a white and beige tiled bathroom and adjoining walk-in closet.",
+      "white tiled bathroom with a vanity tub and white flowers.",
+      "long shot of a bathroom includes closet and tub."
+    ],
+    "specialist_scores": {
+      "bleu": 0.3301008309851503,
+      "meteor": 0.6226379440665155,
+      "overlap": 0.45454545454545453
+    },
+    "llava_scores": {
+      "bleu": 0.2891784933232572,
+      "meteor": 0.46487603305785125,
+      "overlap": 0.3125
+    },
+    "differences": {
+      "bleu": -0.04092233766189313,
+      "meteor": -0.15776191100866427,
+      "overlap": -0.14204545454545453
+    },
+    "combined_diff": -0.11357656773867064
+  },
+  {
+    "image_id": 269105,
+    "image_path": "val/images/COCO_val2014_000000269105.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A green potted plant sits on a white toilet tank, with a picture of a green plant hanging on a green wall.",
+    "ground_truth": [
+      "a white toilet sitting next to a green wall under a picture.",
+      "the letter a framed in a green bathroom.",
+      "there is a potted plant on the back of a toilet",
+      "a white toilet and some tissue in a room.",
+      "a commode with a plant on it under a picture on the wall."
+    ],
+    "specialist_scores": {
+      "bleu": 0.09438595268231116,
+      "meteor": 0.3757575757575758,
+      "overlap": 0.3333333333333333
+    },
+    "llava_scores": {
+      "bleu": 0.10143683212438005,
+      "meteor": 0.5276595744680851,
+      "overlap": 0.35
+    },
+    "differences": {
+      "bleu": 0.007050879442068891,
+      "meteor": 0.1519019987105093,
+      "overlap": 0.016666666666666663
+    },
+    "combined_diff": 0.05853984827308162
+  },
+  {
+    "image_id": 294832,
+    "image_path": "val/images/COCO_val2014_000000294832.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A modern bathroom with a glass shower stall, white toilet, and sink.",
+    "ground_truth": [
+      "a bathroom with an enclosed shower next to a sink and a toilet.",
+      "a clean, spacious bathroom with a large shower stall.",
+      "there are a toilet, a sink, and a shower stall in a large bathroom.",
+      "a bathroom featuring a walk in shower, mirror, sink and toilet.",
+      "bathroom with a shower, sink, and toilet in it."
+    ],
+    "specialist_scores": {
+      "bleu": 0.19574947560537945,
+      "meteor": 0.5679012345679013,
+      "overlap": 0.6363636363636364
+    },
+    "llava_scores": {
+      "bleu": 0.11633270842295028,
+      "meteor": 0.6735772357723577,
+      "overlap": 0.6
+    },
+    "differences": {
+      "bleu": -0.07941676718242917,
+      "meteor": 0.10567600120445642,
+      "overlap": -0.036363636363636376
+    },
+    "combined_diff": -0.0033681341138697093
+  },
+  {
+    "image_id": 462565,
+    "image_path": "val/images/COCO_val2014_000000462565.jpg",
+    "specialist_caption": "a man riding a bike down a street.",
+    "llava_caption": "A group of people riding bicycles on a city street, with a Burger King restaurant in the background.",
+    "ground_truth": [
+      "people on bicycles ride down a busy street",
+      "a group of people are riding bikes down the street in a bike lane",
+      "bike riders passing burger king in city street",
+      "a group of bicyclists are riding in the bike lane.",
+      "bicyclists on a city street, most not using the bike lane"
+    ],
+    "specialist_scores": {
+      "bleu": 0.08248720006399611,
+      "meteor": 0.3896604938271605,
+      "overlap": 0.3333333333333333
+    },
+    "llava_scores": {
+      "bleu": 0.36917916399395617,
+      "meteor": 0.48478260869565226,
+      "overlap": 0.34782608695652173
+    },
+    "differences": {
+      "bleu": 0.28669196392996005,
+      "meteor": 0.09512211486849176,
+      "overlap": 0.014492753623188415
+    },
+    "combined_diff": 0.13210227747388006
+  },
+  {
+    "image_id": 144941,
+    "image_path": "val/images/COCO_val2014_000000144941.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A bathroom with a toilet, sink, and a potted plant.",
+    "ground_truth": [
+      "this is an image of the inside of a nice bathroom.",
+      "a white toilet next to a walk in shower and a sink.",
+      "a potted plant is being displayed in a bathroom.",
+      "a tiled bathroom with a potted plant as a center piece.",
+      "interior bathroom scene with modern furnishings including a plant."
+    ],
+    "specialist_scores": {
+      "bleu": 0.4305051632268923,
+      "meteor": 0.5424733996162567,
+      "overlap": 0.38461538461538464
+    },
+    "llava_scores": {
+      "bleu": 0.17308158329459525,
+      "meteor": 0.5804493801652891,
+      "overlap": 0.42857142857142855
+    },
+    "differences": {
+      "bleu": -0.25742357993229703,
+      "meteor": 0.037975980549032395,
+      "overlap": 0.04395604395604391
+    },
+    "combined_diff": -0.058497185142406906
+  },
+  {
+    "image_id": 173350,
+    "image_path": "val/images/COCO_val2014_000000173350.jpg",
+    "specialist_caption": "a dog is laying on a bed with a dog.",
+    "llava_caption": "Two dogs, one black and white and the other brown and white, are sitting on a wooden floor in a bathroom.",
+    "ground_truth": [
+      "two dogs are looking up while they stand near the toilet in the bathroom.",
+      "two small dogs standing in a restroom next to a toilet.",
+      "two dogs looking up at a camera in a bathroom.",
+      "two small lap dogs in a small bathroom.",
+      "two small dogs stand together in a bathroom."
+    ],
+    "specialist_scores": {
+      "bleu": 0.024808415001701823,
+      "meteor": 0.18181818181818182,
+      "overlap": 0.14285714285714285
+    },
+    "llava_scores": {
+      "bleu": 0.12962472880491877,
+      "meteor": 0.5467064874730381,
+      "overlap": 0.2857142857142857
+    },
+    "differences": {
+      "bleu": 0.10481631380321695,
+      "meteor": 0.36488830565485625,
+      "overlap": 0.14285714285714285
+    },
+    "combined_diff": 0.204187254105072
+  },
+  {
+    "image_id": 60760,
+    "image_path": "val/images/COCO_val2014_000000060760.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A bathroom under construction with a window, light fixture, and a partially covered bathtub.",
+    "ground_truth": [
+      "a bathroom with a walk in shower currently under repair.",
+      "a photograph of a bathroom undergoing major renovations.",
+      "interior shot of bathroom in the process of remodeling.",
+      "picture of bathroom being remolded where sink has not been installed.",
+      "a room under construction with an unfinished shower and plumbing for the sink."
+    ],
+    "specialist_scores": {
+      "bleu": 0.36889397323344053,
+      "meteor": 0.3444444444444445,
+      "overlap": 0.3125
+    },
+    "llava_scores": {
+      "bleu": 0.08651480732019924,
+      "meteor": 0.3574203574203573,
+      "overlap": 0.2727272727272727
+    },
+    "differences": {
+      "bleu": -0.2823791659132413,
+      "meteor": 0.012975912975912829,
+      "overlap": -0.03977272727272729
+    },
+    "combined_diff": -0.10305866007001858
+  }
+]

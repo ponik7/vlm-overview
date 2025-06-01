@@ -1,0 +1,130 @@
+{
+  "simple": [
+    {
+      "image_file": "COCO_val2014_000000000042.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000042.jpg",
+      "caption": "The image shows a small, curly-furred dog lying on a white wire rack. The dog appears to be resting comfortably, with its head resting on a pair of white shoes. The shoes have black straps and a red sole with a white design. The rack is filled with various pairs of shoes, some of which are visible in the foreground. The background is a simple, unadorned wall with a blue metal frame. The overall scene suggests a casual, domestic setting",
+      "prompt_type": "simple"
+    },
+    {
+      "image_file": "COCO_val2014_000000000073.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000073.jpg",
+      "caption": "The image shows a vintage motorcycle parked on a paved surface. The motorcycle has a prominent headlight and a large, round sidecar attached to the frame. The sidecar has a wooden seat and a metal footrest. The motorcycle's engine is visible and appears to be of a classic design. The motorcycle is equipped with a large, round headlight and a smaller, round headlight on the front fender. The fuel tank is also visible and has a classic design",
+      "prompt_type": "simple"
+    },
+    {
+      "image_file": "COCO_val2014_000000000074.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000074.jpg",
+      "caption": "The image depicts a serene street scene. A white dog is peacefully sleeping on a stone sidewalk, its head resting on its front paws. The dog is positioned next to a blue bicycle, which is leaning against a building. The bicycle has a black seat and handlebars, and a black basket attached to the front.\n\nThe street itself is lined with buildings on both sides, creating a sense of symmetry. The buildings appear to be made of stone or brick, adding",
+      "prompt_type": "simple"
+    },
+    {
+      "image_file": "COCO_val2014_000000000133.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000133.jpg",
+      "caption": "The image shows a child's bedroom with a bunk bed on the right side. The bed has a wooden frame and a white mattress. Below the bunk bed, there is a wooden desk with a white drawer unit underneath. On the desk, there is a small zebra figurine and a blue lamp with a white shade. The floor is covered with light-colored wood, and there is a black rug in the foreground. The walls are painted white, and there is a white",
+      "prompt_type": "simple"
+    },
+    {
+      "image_file": "COCO_val2014_000000000136.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000136.jpg",
+      "caption": "The image shows an indoor setting, likely a zoo or wildlife park, where two giraffes are housed in an enclosure. The giraffes are standing on a dirt floor, and one of them is bending down to eat from a raised feeding platform. The enclosure has a yellow wall and a metal fence. There are two people observing the giraffes from behind a glass barrier. The giraffes have distinctive spotted patterns, and one of them is facing the camera",
+      "prompt_type": "simple"
+    }
+  ],
+  "detailed": [
+    {
+      "image_file": "COCO_val2014_000000000042.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000042.jpg",
+      "caption": "In the image, a brown poodle puppy is the main subject. The puppy is comfortably nestled on a white wire shelf, which is situated in a room with a wooden floor. The puppy is lying on its side, its head resting on a pair of white and black sneakers. The sneakers are adorned with a red and blue design, adding a pop of color to the scene.\n\nThe shelf is not just a resting place for the puppy",
+      "prompt_type": "detailed"
+    },
+    {
+      "image_file": "COCO_val2014_000000000073.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000073.jpg",
+      "caption": "The image shows a vintage motorcycle parked on a paved surface. The motorcycle has a prominent front fender with the text \"SV-626Q\" on it, indicating a registration or model number. The motorcycle features a large headlight with a round shape, a smaller round headlight below it, and a round sidecar mounted on the right side. The engine is visible and appears to be a V-twin configuration, with a prominent cooling fin structure.",
+      "prompt_type": "detailed"
+    },
+    {
+      "image_file": "COCO_val2014_000000000074.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000074.jpg",
+      "caption": "In the heart of a bustling city, a white dog has found a moment of tranquility. The dog, with its fur as pure as snow, is peacefully sleeping on a stone sidewalk. Its head is comfortably resting on the cool surface of the sidewalk, while its body is stretched out in a relaxed position.\n\nThe sidewalk is not just a resting place for the dog, but also a stage for the city's life. A bicycle, parked haphazard",
+      "prompt_type": "detailed"
+    },
+    {
+      "image_file": "COCO_val2014_000000000133.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000133.jpg",
+      "caption": "The image shows a child's bedroom with a bunk bed and a desk. The bunk bed has a wooden frame with a ladder on the right side, leading to the top bunk. The top bunk is covered with a white bedsheet and has a black and white patterned pillow. The bottom bunk is partially visible, with a white bedsheet and a stuffed animal on it.\n\nIn front of the bunk bed, there is a wooden desk with a white drawer unit underneath. On the desk",
+      "prompt_type": "detailed"
+    },
+    {
+      "image_file": "COCO_val2014_000000000136.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000136.jpg",
+      "caption": "In the image, there are two giraffes in an indoor enclosure. The giraffe on the left is bending its neck down towards the ground, possibly to eat or drink. The giraffe on the right is standing with its neck extended upwards. Both giraffes have distinctive brown and white spots.\n\nThere are two people observing the giraffes. One person is standing to the left of the image, and the other is standing to the right. They appear to",
+      "prompt_type": "detailed"
+    }
+  ],
+  "coco_style": [
+    {
+      "image_file": "COCO_val2014_000000000042.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000042.jpg",
+      "caption": "\"A brown dog curled up on a pile of shoes in a storage area.\"",
+      "prompt_type": "coco_style"
+    },
+    {
+      "image_file": "COCO_val2014_000000000073.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000073.jpg",
+      "caption": "\"Vintage motorcycle with a sidecar, parked on a street.\"",
+      "prompt_type": "coco_style"
+    },
+    {
+      "image_file": "COCO_val2014_000000000074.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000074.jpg",
+      "caption": "A white dog peacefully sleeping on a stone sidewalk.",
+      "prompt_type": "coco_style"
+    },
+    {
+      "image_file": "COCO_val2014_000000000133.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000133.jpg",
+      "caption": "\"A neatly arranged wooden bunk bed with a desk and drawers underneath, in a child's bedroom.\"",
+      "prompt_type": "coco_style"
+    },
+    {
+      "image_file": "COCO_val2014_000000000136.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000136.jpg",
+      "caption": "\"Two giraffes in an indoor enclosure, one bending over to eat, while a man and woman observe from behind a glass barrier.\"",
+      "prompt_type": "coco_style"
+    }
+  ],
+  "show_tell_style": [
+    {
+      "image_file": "COCO_val2014_000000000042.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000042.jpg",
+      "caption": "A dog is laying on a shelf with shoes.",
+      "prompt_type": "show_tell_style"
+    },
+    {
+      "image_file": "COCO_val2014_000000000073.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000073.jpg",
+      "caption": "An old motorcycle parked on the street.",
+      "prompt_type": "show_tell_style"
+    },
+    {
+      "image_file": "COCO_val2014_000000000074.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000074.jpg",
+      "caption": "A dog is sleeping on a sidewalk next to a bicycle.",
+      "prompt_type": "show_tell_style"
+    },
+    {
+      "image_file": "COCO_val2014_000000000133.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000133.jpg",
+      "caption": "A small bedroom with a bunk bed and a desk.",
+      "prompt_type": "show_tell_style"
+    },
+    {
+      "image_file": "COCO_val2014_000000000136.jpg",
+      "image_path": "./val/images/COCO_val2014_000000000136.jpg",
+      "caption": "Two giraffes in a zoo enclosure, with people watching.",
+      "prompt_type": "show_tell_style"
+    }
+  ]
+}

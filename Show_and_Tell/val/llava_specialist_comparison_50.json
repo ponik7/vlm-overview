@@ -1,0 +1,302 @@
+[
+  {
+    "image_id": 391895,
+    "image_path": "val/images/COCO_val2014_000000391895.jpg",
+    "specialist_caption": "a man riding a horse down a road.",
+    "llava_caption": "A man in a red shirt is riding a motorcycle on a dirt road with a mountain in the background."
+  },
+  {
+    "image_id": 522418,
+    "image_path": "val/images/COCO_val2014_000000522418.jpg",
+    "specialist_caption": "a woman is holding a wii controller in a room.",
+    "llava_caption": "A woman in a red shirt and a hairnet is cutting a large cake with a knife."
+  },
+  {
+    "image_id": 184613,
+    "image_path": "val/images/COCO_val2014_000000184613.jpg",
+    "specialist_caption": "a group of people standing in a field with a horse.",
+    "llava_caption": "A young boy in a grey shirt is holding a colorful umbrella and feeding a brown cow with a blue rope."
+  },
+  {
+    "image_id": 318219,
+    "image_path": "val/images/COCO_val2014_000000318219.jpg",
+    "specialist_caption": "a man is sitting on a couch with a laptop.",
+    "llava_caption": "A young boy wearing headphones is sitting at a computer, looking at the screen."
+  },
+  {
+    "image_id": 554625,
+    "image_path": "val/images/COCO_val2014_000000554625.jpg",
+    "specialist_caption": "a man is sitting on a couch with a laptop.",
+    "llava_caption": "A group of children sitting at desks with computer keyboards, wearing headphones and looking at computer monitors."
+  },
+  {
+    "image_id": 397133,
+    "image_path": "val/images/COCO_val2014_000000397133.jpg",
+    "specialist_caption": "a kitchen with a stove and a stove.",
+    "llava_caption": "A man in a white apron is standing in a kitchen with a large wooden table, surrounded by pots, pans, and various cooking utensils."
+  },
+  {
+    "image_id": 574769,
+    "image_path": "val/images/COCO_val2014_000000574769.jpg",
+    "specialist_caption": "a man is standing in a kitchen with a stove.",
+    "llava_caption": "A woman is standing in a kitchen holding a cat, smiling, with a counter full of food and a refrigerator in the background."
+  },
+  {
+    "image_id": 60623,
+    "image_path": "val/images/COCO_val2014_000000060623.jpg",
+    "specialist_caption": "a man holding a buildings dog in a eats.",
+    "llava_caption": "A young girl is blowing out a candle on a cupcake at a restaurant table."
+  },
+  {
+    "image_id": 309022,
+    "image_path": "val/images/COCO_val2014_000000309022.jpg",
+    "specialist_caption": "a kitchen with a stove and a stove.",
+    "llava_caption": "This is a commercial kitchen with stainless steel appliances and counters."
+  },
+  {
+    "image_id": 5802,
+    "image_path": "val/images/COCO_val2014_000000005802.jpg",
+    "specialist_caption": "a man in a kitchen with a glass of wine.",
+    "llava_caption": "A man in a white shirt and black apron is standing in a kitchen, looking out a window, while another man in a white shirt and black apron is standing at a counter, preparing food."
+  },
+  {
+    "image_id": 222564,
+    "image_path": "val/images/COCO_val2014_000000222564.jpg",
+    "specialist_caption": "a man in a kitchen with a refrigerator.",
+    "llava_caption": "Two men in a kitchen, one cooking and the other assisting, with a stainless steel oven and a countertop."
+  },
+  {
+    "image_id": 118113,
+    "image_path": "val/images/COCO_val2014_000000118113.jpg",
+    "specialist_caption": "a man is sitting on a couch in a kitchen.",
+    "llava_caption": "A darkly lit room filled with various items, including a large wooden shelf, a table, and a fire extinguisher."
+  },
+  {
+    "image_id": 193271,
+    "image_path": "val/images/COCO_val2014_000000193271.jpg",
+    "specialist_caption": "a kitchen with a stove and a stove.",
+    "llava_caption": "This image shows a well-equipped kitchen with a variety of appliances and utensils."
+  },
+  {
+    "image_id": 224736,
+    "image_path": "val/images/COCO_val2014_000000224736.jpg",
+    "specialist_caption": "a kitchen with a stove and a sink.",
+    "llava_caption": "A dirty, cluttered kitchen with a broken toilet and a metal rack."
+  },
+  {
+    "image_id": 483108,
+    "image_path": "val/images/COCO_val2014_000000483108.jpg",
+    "specialist_caption": "a train is parked on the tracks near a train station.",
+    "llava_caption": "A man is riding a bicycle on a street next to a red and white train."
+  },
+  {
+    "image_id": 403013,
+    "image_path": "val/images/COCO_val2014_000000403013.jpg",
+    "specialist_caption": "a kitchen with a sink and a sink.",
+    "llava_caption": "This image shows a small, empty kitchen with white appliances and white cabinets."
+  },
+  {
+    "image_id": 374628,
+    "image_path": "val/images/COCO_val2014_000000374628.jpg",
+    "specialist_caption": "a living room with a couch and a table.",
+    "llava_caption": "This image depicts a spacious, well-lit kitchen and dining area with a warm, inviting atmosphere."
+  },
+  {
+    "image_id": 328757,
+    "image_path": "val/images/COCO_val2014_000000328757.jpg",
+    "specialist_caption": "a man is holding a buildings dog in a photo.",
+    "llava_caption": "A woman in a blue tank top is eating broccoli from a white bowl with a fork in her hand."
+  },
+  {
+    "image_id": 384213,
+    "image_path": "val/images/COCO_val2014_000000384213.jpg",
+    "specialist_caption": "a kitchen with a stove and a sink.",
+    "llava_caption": "A kitchen with a window, a sink, a counter, and a stove."
+  },
+  {
+    "image_id": 293802,
+    "image_path": "val/images/COCO_val2014_000000293802.jpg",
+    "specialist_caption": "a man riding a skateboard down a ramp.",
+    "llava_caption": "A young man is performing a skateboard trick in the air, with his arms outstretched, on a brick sidewalk."
+  },
+  {
+    "image_id": 86408,
+    "image_path": "val/images/COCO_val2014_000000086408.jpg",
+    "specialist_caption": "a kitchen with a stove and a stove.",
+    "llava_caption": "A kitchen with black appliances, including a refrigerator and stove, and wooden cabinets."
+  },
+  {
+    "image_id": 37777,
+    "image_path": "val/images/COCO_val2014_000000037777.jpg",
+    "specialist_caption": "a kitchen with a sink and a sink.",
+    "llava_caption": "This is a photo of a kitchen with a white stove, wooden cabinets, a white refrigerator, a wooden table with fruit on it, and a white door."
+  },
+  {
+    "image_id": 372938,
+    "image_path": "val/images/COCO_val2014_000000372938.jpg",
+    "specialist_caption": "a group of people riding motorcycles on a street.",
+    "llava_caption": "A group of people are riding on the back of a truck, which is loaded with various items."
+  },
+  {
+    "image_id": 386164,
+    "image_path": "val/images/COCO_val2014_000000386164.jpg",
+    "specialist_caption": "a table with a half and a half on it.",
+    "llava_caption": "A collection of wooden utensils and spoons on a wooden table."
+  },
+  {
+    "image_id": 223648,
+    "image_path": "val/images/COCO_val2014_000000223648.jpg",
+    "specialist_caption": "a man sitting on a couch with a laptop.",
+    "llava_caption": "A long wooden table with many wooden spoons and bowls on it, surrounded by four chairs, in a room with a hardwood floor and a bookshelf in the background."
+  },
+  {
+    "image_id": 204805,
+    "image_path": "val/images/COCO_val2014_000000204805.jpg",
+    "specialist_caption": "a large truck parked on a street next to a building.",
+    "llava_caption": "A group of men in old-fashioned clothing are standing on a boat with a large wheel on the front."
+  },
+  {
+    "image_id": 113588,
+    "image_path": "val/images/COCO_val2014_000000113588.jpg",
+    "specialist_caption": "a laptop computer sitting on top of a desk.",
+    "llava_caption": "A group of people working on computers in an office setting."
+  },
+  {
+    "image_id": 384553,
+    "image_path": "val/images/COCO_val2014_000000384553.jpg",
+    "specialist_caption": "a man is holding a frisbee in the air.",
+    "llava_caption": "A man in a pink shirt sits on an elephant in a river, surrounded by lush greenery."
+  },
+  {
+    "image_id": 337264,
+    "image_path": "val/images/COCO_val2014_000000337264.jpg",
+    "specialist_caption": "a man in a suit and a day in a room.",
+    "llava_caption": "A woman is standing in a kitchen, preparing food, while another woman is standing at the counter, looking at her."
+  },
+  {
+    "image_id": 368402,
+    "image_path": "val/images/COCO_val2014_000000368402.jpg",
+    "specialist_caption": "a kitchen with a stove and a sink.",
+    "llava_caption": "A woman is standing in a kitchen, holding a black pan, and smiling."
+  },
+  {
+    "image_id": 12448,
+    "image_path": "val/images/COCO_val2014_000000012448.jpg",
+    "specialist_caption": "a teddy bear sitting on a bed with a teddy bear.",
+    "llava_caption": "A baby is lying down with a teddy bear next to him."
+  },
+  {
+    "image_id": 252219,
+    "image_path": "val/images/COCO_val2014_000000252219.jpg",
+    "specialist_caption": "a group of people standing on a bench in a field.",
+    "llava_caption": "A woman in a green tank top walks past a man in a white shirt and a man in a black hat, who are standing next to a blue building with a white sign."
+  },
+  {
+    "image_id": 79841,
+    "image_path": "val/images/COCO_val2014_000000079841.jpg",
+    "specialist_caption": "a man is riding a skateboard down a street.",
+    "llava_caption": "The image is a split-screen photograph showing two different scenes: a man riding a bicycle on a city street and a man walking on a sidewalk in front of a building."
+  },
+  {
+    "image_id": 87038,
+    "image_path": "val/images/COCO_val2014_000000087038.jpg",
+    "specialist_caption": "a man riding a bike down a street.",
+    "llava_caption": "A skateboarder performing a trick in a graffiti-covered skate park."
+  },
+  {
+    "image_id": 174482,
+    "image_path": "val/images/COCO_val2014_000000174482.jpg",
+    "specialist_caption": "a man riding a bike on a street.",
+    "llava_caption": "A blue bicycle parked on a sidewalk next to a street with cars and a truck."
+  },
+  {
+    "image_id": 515289,
+    "image_path": "val/images/COCO_val2014_000000515289.jpg",
+    "specialist_caption": "a man riding a motorcycle down a street.",
+    "llava_caption": "A group of people riding bicycles on a path, with a pigeon walking in front of them."
+  },
+  {
+    "image_id": 562150,
+    "image_path": "val/images/COCO_val2014_000000562150.jpg",
+    "specialist_caption": "a woman is holding a dog in a park.",
+    "llava_caption": "A young girl is holding a small kitten in her arms."
+  },
+  {
+    "image_id": 542145,
+    "image_path": "val/images/COCO_val2014_000000542145.jpg",
+    "specialist_caption": "a bathroom with a sink and a sink.",
+    "llava_caption": "A small bathroom with a black cabinet, white toilet, and a sink."
+  },
+  {
+    "image_id": 412151,
+    "image_path": "val/images/COCO_val2014_000000412151.jpg",
+    "specialist_caption": "a man is sitting on a motorcycle with a bicycle.",
+    "llava_caption": "A man in a blue shirt is showing a bicycle to another man in a bike shop."
+  },
+  {
+    "image_id": 403385,
+    "image_path": "val/images/COCO_val2014_000000403385.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A bathroom in need of repair, with a toilet, sink, and shower."
+  },
+  {
+    "image_id": 579003,
+    "image_path": "val/images/COCO_val2014_000000579003.jpg",
+    "specialist_caption": "a cat sitting on a bed in a room.",
+    "llava_caption": "A bathroom with a red tiled shower, a white sink, and a mirror."
+  },
+  {
+    "image_id": 540186,
+    "image_path": "val/images/COCO_val2014_000000540186.jpg",
+    "specialist_caption": "a bathroom with a sink and a sink.",
+    "llava_caption": "A large, well-lit bathroom with a white vanity, blue towels, and a blue rug."
+  },
+  {
+    "image_id": 242611,
+    "image_path": "val/images/COCO_val2014_000000242611.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "This image depicts a well-lit, modern bathroom with a white color scheme, featuring a large bathtub, a double sink vanity, and a walk-in shower."
+  },
+  {
+    "image_id": 51191,
+    "image_path": "val/images/COCO_val2014_000000051191.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "This is a picture of a bathroom with a white color scheme."
+  },
+  {
+    "image_id": 269105,
+    "image_path": "val/images/COCO_val2014_000000269105.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A green potted plant sits on a white toilet tank, with a picture of a green plant hanging on a green wall."
+  },
+  {
+    "image_id": 294832,
+    "image_path": "val/images/COCO_val2014_000000294832.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A modern bathroom with a glass shower stall, white toilet, and sink."
+  },
+  {
+    "image_id": 462565,
+    "image_path": "val/images/COCO_val2014_000000462565.jpg",
+    "specialist_caption": "a man riding a bike down a street.",
+    "llava_caption": "A group of people riding bicycles on a city street, with a Burger King restaurant in the background."
+  },
+  {
+    "image_id": 144941,
+    "image_path": "val/images/COCO_val2014_000000144941.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A bathroom with a toilet, sink, and a potted plant."
+  },
+  {
+    "image_id": 173350,
+    "image_path": "val/images/COCO_val2014_000000173350.jpg",
+    "specialist_caption": "a dog is laying on a bed with a dog.",
+    "llava_caption": "Two dogs, one black and white and the other brown and white, are sitting on a wooden floor in a bathroom."
+  },
+  {
+    "image_id": 60760,
+    "image_path": "val/images/COCO_val2014_000000060760.jpg",
+    "specialist_caption": "a bathroom with a toilet and a sink.",
+    "llava_caption": "A bathroom under construction with a window, light fixture, and a partially covered bathtub."
+  }
+]
