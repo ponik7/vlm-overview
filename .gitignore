@@ -1,5 +1,18 @@
+# Images (exclude all, but allow specific ones needed for report)
 images/
 *.jpg
+*.png
+*.jpeg
+*.gif
+
+# Allow specific images used in report
+!Show_and_Tell/val/images/COCO_val2014_000000540186.jpg
+!Show_and_Tell/val/images/COCO_val2014_000000483108.jpg
+!Show_and_Tell/val/images/COCO_val2014_000000562150.jpg
+!Show_and_Tell/val/images/COCO_val2014_000000060623.jpg
+!Show_and_Tell/val/images/COCO_val2014_000000403013.jpg
+!Show_and_Tell/val/images/COCO_val2014_000000242611.jpg
+!Show_and_Tell/test/results/1_result.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
